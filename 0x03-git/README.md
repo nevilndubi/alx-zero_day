@@ -1,1 +1,1 @@
-This is a non empty README
+This README contains content
